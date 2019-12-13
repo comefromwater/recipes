@@ -9,3 +9,15 @@ ingredients
 --salt
 --garlic
 --lime
+
+steps
+
+--wash everything
+--chop off tomatoes and onions
+--scoop avocado
+--wash cilantro and chop of cilantro
+--peel off garlic and chop off garlic
+--mix everything
+--squeeze lime
+--add salt
+
